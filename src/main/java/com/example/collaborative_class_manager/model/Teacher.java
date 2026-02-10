@@ -3,8 +3,6 @@ package com.example.collaborative_class_manager.model;
 import jakarta.persistence.*;
 
 @Entity
-
-
 public class Teacher {
 
     @Id
