@@ -1,4 +1,4 @@
-package model;
+package com.example.collaborative_class_manager.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
