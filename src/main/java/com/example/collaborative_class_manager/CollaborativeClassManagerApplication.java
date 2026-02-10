@@ -8,6 +8,9 @@ public class CollaborativeClassManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CollaborativeClassManagerApplication.class, args);
+
+
+
 	}
 
 }
